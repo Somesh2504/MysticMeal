@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MysticMeal/static/css/main.87582e63.css",
+    "main.js": "/MysticMeal/static/js/main.fa524a66.js",
+    "static/media/FoodZoneB2.jpg": "/MysticMeal/static/media/FoodZoneB2.bba1fe4b82efdfbeb6e0.jpg",
+    "static/media/logo3.jpg": "/MysticMeal/static/media/logo3.bc8f31a0d1ea286d9093.jpg",
+    "static/media/x-mark.png": "/MysticMeal/static/media/x-mark.cc77b84be764a2795bc6.png",
+    "index.html": "/MysticMeal/index.html",
+    "main.87582e63.css.map": "/MysticMeal/static/css/main.87582e63.css.map",
+    "main.fa524a66.js.map": "/MysticMeal/static/js/main.fa524a66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87582e63.css",
+    "static/js/main.fa524a66.js"
+  ]
+}
